@@ -1,0 +1,2 @@
+# Spam_Mail_Detection_ML_Django_Project
+Machine learning projects through Django
